@@ -63,9 +63,9 @@ To create a Java-based console application that presents quiz questions, evaluat
 
 ## 🛠️ Tools & Technologies
 
-* Java (JDK 21 or any version above 8)
-* Eclipse IDE (recommended)
-* Console / Command Prompt / Terminal
+* Java (JDK 21)
+* Eclipse IDE
+* Console 
 
 ---
 
